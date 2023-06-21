@@ -8,21 +8,11 @@
   -->
   <style>
     * {
-      fill: rgb(17, 24, 39);
+      fill: rgb(203, 213, 225);
     }
 
     circle {
-      fill: rgb(30, 64, 175);
-    }
-
-    @media (prefers-color-scheme: dark) {
-      * {
-        fill: rgb(203, 213, 225);
-      }
-
-      circle {
-        fill: rgb(29, 78, 216);
-      }
+      fill: rgb(29, 78, 216);
     }
   </style>
   <circle fill="currentColor" cx="225" cy="225" r="25" />
