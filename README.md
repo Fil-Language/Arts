@@ -1,6 +1,6 @@
 # Arts
 
-Fil arts
+Fil arts made by [@Durb0](https://github.com/Durb0)
 
 | File | Description | Preview |
 |:----:|:-----------:|:-------:|
